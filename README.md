@@ -31,5 +31,14 @@ but the articles expanded my knowledge about him. Very interesting and useful.
 
 ![screenshot-4](./task_linux_cli/screenshot-4.png)
 
+## Git Collaboration 
+
+The tasks were interesting and difficult. I have improved my skills well. Also I think there are things I will never use.
+
+![screenshot-1](./task_git_collaboration/screenshot-1.png)
+
+![screenshot-2](./task_git_collaboration/screenshot-2.png)
+
+
 
 
