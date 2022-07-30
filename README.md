@@ -39,6 +39,12 @@ The tasks were interesting and difficult. I have improved my skills well. Also I
 
 ![screenshot-2](./task_git_collaboration/screenshot-2.png)
 
+## Intro to HTML and CSS 
 
+I have been familiar with HTML and CSS technology for a long time, so I did not learn anything new in this course. The tasks were completed quickly and easily.
+
+![screenshot-1](./task_html_css_intro/screenshot-1.png)
+
+![screenshot-2](./task_html_css_intro/screenshot-2.png)
 
 
