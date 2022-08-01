@@ -47,4 +47,12 @@ I have been familiar with HTML and CSS technology for a long time, so I did not 
 
 ![screenshot-2](./task_html_css_intro/screenshot-2.png)
 
+## Responsive Web Design 
+
+I was already familiar with the basics of adaptive, flexbox and grid layout and I constantly use them in practice. About 2-3 months ago I played these games so that they did not cause me any difficulties.
+
+![screenshot-1](./task_responsive_web_design/screenshot-1.png)
+
+![screenshot-2](./task_responsive_web_design/screenshot-2.png)
+
 
